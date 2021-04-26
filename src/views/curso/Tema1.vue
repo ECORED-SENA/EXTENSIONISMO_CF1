@@ -121,7 +121,7 @@
               img(src='@/assets/ilustraciones/img6.svg' alt='AvatarTop')
               .tarjeta.tarjeta-avatar.mb-0
                 .h4.text-tarjeta-avatar.text-center Proveedores
-                p.text-tarjeta-avatar.text-center.mb-0.px-4.pb-4 Deben implementar, dentro de sus herramientas, modelos que permitan que sus procesos se integren a los de las organizaciones en tiempo real; cotizaciones, trazabilidad de pedidos, inventarios, entre otros, son alternativas para apoyar los procesos de transformación a nivel transversal de las organizaciones.            
+                p.text-tarjeta-avatar.text-center.mb-0.px-5.pb-4 Deben implementar, dentro de sus herramientas, modelos que permitan que sus procesos se integren a los de las organizaciones en tiempo real; cotizaciones, trazabilidad de pedidos, inventarios, entre otros, son alternativas para apoyar los procesos de transformación a nivel transversal de las organizaciones.            
 
         .row.justify-content-center.align-items-stretch.mt-5
           .col-md-6.col-lg.my-5
