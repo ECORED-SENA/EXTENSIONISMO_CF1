@@ -105,38 +105,39 @@
     .titulo-segundo.mt-5
       .h4 1.2.3 Implementación de mejores acciones de gestión y estrategia
     p La implementación de los planes de mejora que busquen enrutar las estrategias corporativas debe estar enfocada en la integración de las actividades que se enmarcan en los procesos de digitalización. Así mismo, la transformación digital busca ajustar los niveles de rendimiento de las funciones empresariales. Es así como se definen unos grupos de interés que aportan a la estructuración de estrategias de mejora, que pueden estar contenidos en grupos de empleados, proveedores, directivos, sociedad civil y mercado específico, además, no hay que dejar a un lado las capacitaciones y tecnologías que el empresario pueda realizar y utilizar para alcanzar mejores resultados y delimitando a estos actores de la siguiente manera: 
-
-    .row.justify-content-center.align-items-stretch.mt-5
-      .col-md-6.col-lg.mb-5
-        .tarjeta-Avatar
-          img(src='@/assets/ilustraciones/img5.svg' alt='AvatarTop')
-          .tarjeta.tarjeta-avatar.mb-0.p-4
-            .h4.text-tarjeta-avatar.text-center Empleados
-            p.text-tarjeta-avatar.text-center.mb-0 Deben manejar las diferentes herramientas para la ejecución de sus funciones definiendo así qué deben conocer e incorporarse en la apropiación de los procesos de transformación digital para agilizar sus labores.  
-
-
-      .col-md-6.col-lg.mb-5
-        .tarjeta-Avatar
-          img(src='@/assets/ilustraciones/img6.svg' alt='AvatarTop')
-          .tarjeta.tarjeta-avatar.mb-0
-            .h4.text-tarjeta-avatar.text-center Proveedores
-            p.text-tarjeta-avatar.text-center.mb-0 Deben implementar, dentro de sus herramientas, modelos que permitan que sus procesos se integren a los de las organizaciones en tiempo real; cotizaciones, trazabilidad de pedidos, inventarios, entre otros, son alternativas para apoyar los procesos de transformación a nivel transversal de las organizaciones.            
-
-    .row.justify-content-center.align-items-stretch.mt-5
-      .col-md-6.col-lg.my-5
-        .tarjeta-Avatar
-          img(src='@/assets/ilustraciones/img7.svg' alt='AvatarTop')
-          .tarjeta.tarjeta-avatar.p-4.mb-0
-            .h4.text-tarjeta-avatar.text-center Directivos
-            p.text-tarjeta-avatar.text-center.mb-0 Deben contar con las herramientas suficientes para la toma de decisiones mediante el monitoreo y control de los procesos de la organización. 
+    .row.justify-content-center.align-items-center  
+      .col-10
+        .row.justify-content-center.align-items-stretch.mt-5
+          .col-md-6.col-lg.mb-5
+            .tarjeta-Avatar
+              img(src='@/assets/ilustraciones/img5.svg' alt='AvatarTop')
+              .tarjeta.tarjeta-avatar.mb-0.p-4
+                .h4.text-tarjeta-avatar.text-center Empleados
+                p.text-tarjeta-avatar.text-center.mb-0.px-4.pb-4 Deben manejar las diferentes herramientas para la ejecución de sus funciones definiendo así qué deben conocer e incorporarse en la apropiación de los procesos de transformación digital para agilizar sus labores.  
 
 
-      .col-md-6.col-lg.my-5
-        .tarjeta-Avatar
-          img(src='@/assets/ilustraciones/img8.svg' alt='AvatarTop')
-          .tarjeta.tarjeta-avatar.p-4.mb-0
-            .h4.text-tarjeta-avatar.text-center Sociedad civil
-            p.text-tarjeta-avatar.text-center.mb-0 Debe conocer cuáles son los lineamientos que se definen desde las empresas y que van ligados a las estrategias de comunicación de esta; además de plantear la definición de diversos canales que permitan dar a conocer las decisiones que surgen desde los cambios de los modelos de negocio de la organización.
+          .col-md-6.col-lg.mb-5
+            .tarjeta-Avatar
+              img(src='@/assets/ilustraciones/img6.svg' alt='AvatarTop')
+              .tarjeta.tarjeta-avatar.mb-0
+                .h4.text-tarjeta-avatar.text-center Proveedores
+                p.text-tarjeta-avatar.text-center.mb-0.px-4.pb-4 Deben implementar, dentro de sus herramientas, modelos que permitan que sus procesos se integren a los de las organizaciones en tiempo real; cotizaciones, trazabilidad de pedidos, inventarios, entre otros, son alternativas para apoyar los procesos de transformación a nivel transversal de las organizaciones.            
+
+        .row.justify-content-center.align-items-stretch.mt-5
+          .col-md-6.col-lg.my-5
+            .tarjeta-Avatar
+              img(src='@/assets/ilustraciones/img7.svg' alt='AvatarTop')
+              .tarjeta.tarjeta-avatar.p-4.mb-0
+                .h4.text-tarjeta-avatar.text-center Directivos
+                p.text-tarjeta-avatar.text-center.mb-0.px-4.pb-4 Deben contar con las herramientas suficientes para la toma de decisiones mediante el monitoreo y control de los procesos de la organización. 
+
+
+          .col-md-6.col-lg.my-5
+            .tarjeta-Avatar
+              img(src='@/assets/ilustraciones/img8.svg' alt='AvatarTop')
+              .tarjeta.tarjeta-avatar.p-4.mb-0
+                .h4.text-tarjeta-avatar.text-center Sociedad civil
+                p.text-tarjeta-avatar.text-center.mb-0.px-4.pb-4 Debe conocer cuáles son los lineamientos que se definen desde las empresas y que van ligados a las estrategias de comunicación de esta; además de plantear la definición de diversos canales que permitan dar a conocer las decisiones que surgen desde los cambios de los modelos de negocio de la organización.
 
     p.mt-5 En el desarrollo del mercado se debe definir el uso de herramientas o adaptación de soluciones digitales que permitan entender cómo se comportan los clientes y definir el mercado un objetivo. Las revisiones de tendencias y los cambios de hábitos deben ser valorados como procesos fundamentales en el momento de poner en marcha las implementaciones enfocadas a la transformación digital organizacional. 
 
@@ -260,7 +261,7 @@
 
     p.mt-4 Extensionismo agropecuario, define una estrategia llamada AgroSENA, que busca fortalecer los procesos de formación profesional en la ruralidad colombiana a través de actividades de extensión agropecuaria para mejorar las condiciones técnicas y productivas que impactan positivamente la calidad de vida de las poblaciones. Esto se hace efectuando ejercicios de transferencia de tecnología e innovación de acuerdo con las necesidades del campo y los productores del país; estos ejercicios incluyen acciones de acompañamiento técnico y socioempresarial inmersas en los procesos formativos y/o productivos que se desarrollen en el territorio.
 
-    img.img-t.img-a.my-5(src='@/assets/ilustraciones/img11.jpg', alt='') 
+    img.img-t.img-a.my-5.img-t-1(src='@/assets/ilustraciones/img11.svg', alt='') 
 
     p El extensionista agropecuario lleva el conocimiento agrícola o pecuario a los productores y los motiva a adoptar nuevas y mejores formas para trabajar en sus cultivos, semovientes u otra producción animal.
 
@@ -268,11 +269,11 @@
 
     .hr-dotted.my-4
 
-    .p-color2 Extensionismo tecnológico
+    .p-color2 #[b Extensionismo tecnológico]
 
     p.mt-4 El Servicio Nacional de Aprendizaje (SENA) articulado con el Ministerio de Industria, Comercio y Turismo (MinCIT) y el Ministerio de las Tecnologías de la Información y las Comunicaciones (MinTIC), se unen para implementar una estrategia de asistencia técnica virtual que impacte a las MiPymes con transformación digital y nuevas oportunidades de negocios a través del diseño e implementación de la estrategia #MiPymesetransforma “Empresas con Mentalidad TIC”.
 
-    img.img-t.img-a.my-5(src='@/assets/ilustraciones/img12.png', alt='') 
+    img.img-t.img-a.my-5(src='@/assets/ilustraciones/img12.svg', alt='') 
 
     p La estrategia anterior busca potenciar los procesos de digitalización, coordinación, gestión y estrategia de las MiPymes colombianas, mediante la implementación de planes de mejora y fortalecimiento de las competencias del capital humano organizacional. Así, la transformación digital se propone de una forma estructurada llegar a las mejoras estimadas, por lo tanto, se propone la siguiente metodología.
 
