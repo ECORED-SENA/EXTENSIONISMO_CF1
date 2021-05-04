@@ -54,7 +54,7 @@
     .row.mt-5
       .col-12
         .cajon--azul.p-4.mb-5.mb-lg-0
-          p La ausencia o el mal funcionamiento de la tecnología se sienten más que su presencia. El mundo actual es digital y siempre se espera que la tecnología funcione sin problemas, por ejemplo, los teléfonos inteligentes contienen todos los datos que se necesitan (y más) para ser productivos todo el día: desde herramientas de procesamiento de texto hasta calendarios, notificaciones sobre el consumo de energía en el hogar, alternativas de transporte, servicios de entrega de comida y pronósticos del estado tiempo (RedHat, 2021). 
+          p La ausencia o el mal funcionamiento de la tecnología se sienten más que su presencia. El mundo actual es digital y siempre se espera que la tecnología funcione sin problemas, por ejemplo, los teléfonos inteligentes contienen todos los datos que se necesitan (y más) para ser productivos todo el día, desde herramientas de procesamiento de texto hasta calendarios, notificaciones sobre el consumo de energía en el hogar, alternativas de transporte, servicios de entrega de comida y pronósticos del estado tiempo (RedHat, 2021). 
 
     .titulo-segundo#t_1_2.mt-5
       .h4 1.2 Conceptos básicos sobre organización y procesos           
@@ -113,7 +113,7 @@
               img(src='@/assets/ilustraciones/img5.svg' alt='AvatarTop')
               .tarjeta.tarjeta-avatar.mb-0.p-4
                 .h4.text-tarjeta-avatar.text-center Empleados
-                p.text-tarjeta-avatar.text-center.mb-0.px-4.pb-4 Deben manejar las diferentes herramientas para la ejecución de sus funciones definiendo así qué deben conocer e incorporarse en la apropiación de los procesos de transformación digital para agilizar sus labores.  
+                p.text-tarjeta-avatar.text-center.mb-0.px-4.pb-4 Deben manejar las diferentes herramientas para la ejecución de sus funciones definiendo así, qué deben conocer e incorporarse en la apropiación de los procesos de transformación digital para agilizar sus labores.  
 
 
           .col-md-6.col-lg.mb-5
@@ -162,7 +162,7 @@
                     figure.card__figure  
                       img(src='@/assets/ilustraciones/indicador2.svg', alt='') 
 
-                    Implementando la metodología de #[strong extensionismo tecnológico (diagnóstico, concertación e implementación de plan de mejora)], que permita de manera colaborativa con el empresario, la transformación digital de los procesos de la MiPymes.
+                    p Implementando la metodología de #[strong extensionismo tecnológico (diagnóstico, concertación e implementación de plan de mejora)], que permita de manera colaborativa con el empresario, la transformación digital de los procesos de la MiPymes.
         .row
           .col-auto
             p.num-1 1.  
@@ -249,7 +249,7 @@
         .hr.mt-2 
         p.mt-4 La meta del Programa es atender a 8.334 empresas y apoyar el entrenamiento de 950 especialistas en productividad al año 2025.    
 
-    p El extensionismo es el principal vehículo de transferencia de conocimiento y adopción de tecnologías, siempre buscando el bienestar y la rentabilidad de las organizaciones. En este espacio surge, entonces, un profesSional que brinda las herramientas y hace el acercamiento con las empresas y sus miembros para ejecutar los planes de mejora: el extensionista.
+    p El extensionismo es el principal vehículo de transferencia de conocimiento y adopción de tecnologías, siempre buscando el bienestar y la rentabilidad de las organizaciones. En este espacio surge, entonces, un profesional que brinda las herramientas y hace el acercamiento con las empresas y sus miembros para ejecutar los planes de mejora: el extensionista.
 
     p.my-3 El extensionista es un profesional que brinda a las empresas un servicio especializado para orientar y acompañarlas en la medición de su productividad y la identificación, diseño, implementación, evaluación de métodos, metodologías, herramientas y acciones que permitan mejoramientos al interior de las entidades.
 

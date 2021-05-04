@@ -1,7 +1,7 @@
 export const global = {
   componenteFormativo: 'El extensionismo y sus fundamentaciones',
   descripcionCurso:
-    'Los consultores requieren contar con el conocimiento que permita facilitar el procedimiento de asistencia técnica, metodológica y especializada bajo el concepto de extensionismo tecnológico y habilidades gerenciales, comerciales, administrativas o de soporte en el marco del programa MiPyme se transforma. Este componente presenta los fundamentos conceptuales y elementos del extensionismo tecnológico y la consultaría empresarial en el ámbito de la trasformación digital. Además, se abordan los conceptos básicos sobre organización, procesos y la implementación de mayores acciones de digitalización, coordinación, gestión y estrategia.',
+    'Los consultores requieren contar con el conocimiento que permita facilitar el procedimiento de asistencia técnica, metodológica y especializada bajo el concepto de extensionismo tecnológico y habilidades gerenciales, comerciales, administrativas o de soporte en el marco del programa MiPyme se transforma. Este material presenta los fundamentos conceptuales y elementos del extensionismo tecnológico y la consultaría empresarial en el ámbito de la trasformación digital. Además, se abordan los conceptos básicos sobre organización, procesos y la implementación de mayores acciones de digitalización, coordinación, gestión y estrategia.',
   imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
 }
@@ -199,8 +199,6 @@ export const referencias = [
   },
   {
     referencia: 'Landini. (2016). ¿Qué es extensionismo? ',
-    link:
-      'https://extensionvitivinicoladelsur.cl/nosotros/que-es-el-extensionismo/',
   },
   {
     referencia:
