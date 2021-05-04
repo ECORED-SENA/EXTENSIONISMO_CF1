@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="105" height="105" viewBox="0 0 105 105">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7ea7df"/>
+      <stop offset="1" stop-color="#3c5185"/>
+    </radialGradient>
+    <filter id="Elipse_74" x="0" y="0" width="105" height="105" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_26620" data-name="Grupo 26620" transform="translate(-421 -3482)">
+    <g transform="matrix(1, 0, 0, 1, 421, 3482)" filter="url(#Elipse_74)">
+      <circle id="Elipse_74-2" data-name="Elipse 74" cx="43.5" cy="43.5" r="43.5" transform="translate(9 6)" fill="url(#radial-gradient)"/>
+    </g>
+    <g id="Grupo_26361" data-name="Grupo 26361" transform="translate(445 3503)">
+      <g id="Grupo_26360" data-name="Grupo 26360" transform="translate(0 0)">
+        <rect id="Rectángulo_4972" data-name="Rectángulo 4972" width="18.193" height="1.819" transform="translate(19.176 50.03)" fill="#f9a71e"/>
+        <path id="Trazado_7248" data-name="Trazado 7248" d="M415.392,3495.9a3.625,3.625,0,0,0-2.424,6.333l-9.5,17.417a3.556,3.556,0,0,0-.811-.1,3.636,3.636,0,0,0-3.052,1.671l-2.406-.765v-1.812h.91v-1.823h-.91v-1.819h.91v-1.819h-.91v-1.819h.91a4.548,4.548,0,0,0,1.362-8.89l1.361-2.726v-12.034H395.38v4.548h-1.817v-4.548H388.1v4.548h-1.819v-4.548h-5.458v12.039l1.361,2.721a4.548,4.548,0,0,0,1.367,8.886h.91v1.819h-.91V3515h.91v1.4l-2.781-.885a3.632,3.632,0,1,0-6.283,1.906l-7.973,8.7a3.579,3.579,0,0,0-1.155-.206,3.675,3.675,0,1,0,2.7,1.218l7.974-8.7a3.53,3.53,0,0,0,4.031-1.232l2.581.821v.62h.91v2.727c0,7.876-4.364,14.909-4.408,14.978l-.179.282,1.069,7.479h19.77l1.069-7.481-.18-.282a32.4,32.4,0,0,1-4.376-13.97l1.81.575c-.006.079-.024.156-.024.237a3.638,3.638,0,1,0,6.062-2.694l9.5-17.417a3.6,3.6,0,0,0,.811.1,3.638,3.638,0,1,0,0-7.277Zm-49.121,35.475a1.819,1.819,0,1,1,1.819-1.819A1.819,1.819,0,0,1,366.272,3531.379Zm11.825-14.554a1.819,1.819,0,1,1,1.819-1.819h0A1.821,1.821,0,0,1,378.1,3516.824Zm5.458-7.277a2.729,2.729,0,0,1,0-5.458h10.009v-1.819h-9.446l-1.472-2.944v-9.792h1.819v4.548h5.458v-4.548h1.819v4.548H397.2v-4.548h1.817v9.792l-2.379,4.763h1.471a2.729,2.729,0,1,1,0,5.458H383.554Zm2.726,1.819h9.1v1.819h-9.093Zm9.1,3.638v1.819h-9.093v-1.819Zm3.761,27.289H382.524l-.65-4.549h12.6v-1.818H382.385a32.684,32.684,0,0,0,3.9-14.553v-2.727h9.1v2.727a33,33,0,0,0,4.513,15.658Zm3.517-17.283a1.819,1.819,0,1,1,1.819-1.819,1.819,1.819,0,0,1-1.819,1.819Zm12.738-23.65a1.819,1.819,0,1,1,1.819-1.819A1.819,1.819,0,0,1,415.392,3501.361Z" transform="translate(-362.561 -3487.717)" fill="#fff"/>
+        <rect id="Rectángulo_4973" data-name="Rectángulo 4973" width="9.096" height="1.819" transform="translate(23.723 27.289)" fill="#f9a71e"/>
+      </g>
+    </g>
+  </g>
+</svg>
